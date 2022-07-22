@@ -27,7 +27,7 @@ python3 HiddenWave.py -f Demo.wav -m "Secret Msg" -o output.wav
 ```
 ### Extract Secret Information from Audio file
 ```
-wget http://www.devtknred.ml/hidano.wav
+wget http://www.devtknred.ml/hidan.wav
 ```
 ```
 python3 ExWave.py -f hidano.wav
