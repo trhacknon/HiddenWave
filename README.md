@@ -10,7 +10,7 @@ Hiddenwave is a python based program for simple audio steganography. You can hid
 ## Installation
 
 ```
-git clone https://github.com/techchipnet/HiddenWave.git
+git clone https://github.com/trhacknon/HiddenWave.git
 cd HiddenWave
 ```
 ## Usage
@@ -26,11 +26,13 @@ cd HiddenWave
 python3 HiddenWave.py -f Demo.wav -m "Secret Msg" -o output.wav
 ```
 ### Extract Secret Information from Audio file
-
 ```
-python3 ExWave.py -f output.wav
+wget http://www.devtknred.ml/hidano.wav
+```
+```
+python3 ExWave.py -f hidano.wav
 ```
 
 ### Video Demo
 [![How to control android camera](https://img.youtube.com/vi/UPQD7L9FNrk/0.jpg)](https://www.youtube.com/watch?v=UPQD7L9FNrk)
-#### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
+#### For More Video subcribe <a href="http://youtube.com/">TechChip YouTube Channel</a>
