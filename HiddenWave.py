@@ -1,4 +1,4 @@
-# HiddinWave Ver 1.0
+# HiddenWave Ver 1.0
 # Powered by trhacknon 
 # Hide your secret text in wave audio file.
 import os
